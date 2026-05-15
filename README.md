@@ -43,6 +43,8 @@ The goal of this project is to understand:
 
 ---
 
+![Alt Text](assets/projectstructure.png)
+
 # Project Structure
 
 ```text
