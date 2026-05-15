@@ -28,12 +28,12 @@ textArea.addEventListener('input', () => {
 });
 
 /* SCROLL */
+
 textArea.addEventListener('scroll', () => {
     lineNumbers.scrollTop = textArea.scrollTop;
 });
 
 /* Tab Handling */
-
 
 textArea.addEventListener('keydown', (e) => {
 
